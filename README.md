@@ -23,7 +23,7 @@ My Projects is a culmination of schoolwork and personal projects that I have dev
 1.  [Full Stack Development](full_stack_development/README.md "My Full Stack Development README.md file")
    - [Python Projects](full_stack_development/python-projects/README.md "My Python Projects README.md file")
    - 
-### Database Management
+### [Database Management](database_management/README.md "My Database Management README.md file")
 
 1.  [Database Management](database_management/README.md "My Database Management README.md file")
    - [LIS 2780: Database Concepts](database_concepts/README.md " My Database Concepts README.md file")
