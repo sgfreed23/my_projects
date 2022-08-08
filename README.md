@@ -2,15 +2,18 @@
 ## Developer: Samuel Grant Freed
 
 ### Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [General Info](#general-info)
+* [User Experience Design](#user-experience-design)
+* [Full Stack Development](#full-stack-development)
+* [Database Management](#database-management)
 
-### General info
+### General Info
 This repository is filled with my personal projects that I have completed or are currently in the process of completing.
 	
-### Technologies
+### User Experience Design
 Project is created with:
 	
-### Setup
+### Full-Stack Development
 To run this project, install it locally using npm:
+
+### Database Management
