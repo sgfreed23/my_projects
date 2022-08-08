@@ -14,11 +14,17 @@ My Projects is a culmination of schoolwork and personal projects that I have dev
 
 ### User Experience Design
 
-
+1.  [User Experience Design](user_experience_design/README.md "My User Experience Design README.md file")
+   -
+   -
 	
 ### Full-Stack Development
 
-1.  [Python Projects](python-projects/README.md "My Python Projects README.md file")
-
+1.  [Full Stack Development](full_stack_development/README.md "My Full Stack Development README.md file")
+   - [Python Projects](python-projects/README.md "My Python Projects README.md file")
+   - 
 ### Database Management
 
+1.  [Database Management](database_management/README.md "My Database Management README.md file")
+   - [LIS 2780: Database Concepts](database_concepts/README.md " My Database Concepts README.md file")
+   - 
