@@ -21,7 +21,7 @@ My Projects is a culmination of schoolwork and personal projects that I have dev
 ### Full-Stack Development
 
 1.  [Full Stack Development](full_stack_development/README.md "My Full Stack Development README.md file")
-   - [Python Projects](python-projects/README.md "My Python Projects README.md file")
+   - [Python Projects](full_stack_development/python-projects/README.md "My Python Projects README.md file")
    - 
 ### Database Management
 
