@@ -8,12 +8,15 @@
 * [Database Management](#database-management)
 
 ### General Info
-This repository is filled with my personal projects that I have completed or are currently in the process of completing.
-	
+
+My Projects is a culmination of schoolwork and personal projects that I have developed over the years that represent a portion of the knowledge and experience I have accumulated in my time as an aspiring I.T professional.
+
+
 ### User Experience Design
-Project is created with:
+
 	
 ### Full-Stack Development
-To run this project, install it locally using npm:
+
 
 ### Database Management
+
