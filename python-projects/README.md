@@ -2,22 +2,28 @@
 
 ## Developer: Samuel Grant Freed
 
-### Development:
+### Table of Contents:
 
-1. [command_line/README.md](command_line/README.md "My Command Line README.md file")
+* [General Info](#general-info)
+* [General Info](#general-info)
+* [General Info](#general-info)
+* [General Info](#general-info)
+
+
+1. [command_line/README.md](Command Line "My Command Line README.md file")
    - Bulk File Rename Tool
    - Contact Book
    - Directory Tree Generator
    - Image Viewer
    - Site Connectivity Checker
    
-2. [desktop_gui/README.md](desktop_gui/README.md "My Desktop GUI README.md file")
+2. [desktop_gui/README.md](Desktop GUI "My Desktop GUI README.md file")
    - Alarm Tool
    - Expense Tracker
    - File Manager
    - MP3 Player
 
-3. [web_README.md](web/README.md "My Web README.md file")
+3. [web_README.md](Web "My Web README.md file")
    - Content Aggregator
    - Post-It Note
    - Quiz Applciation
