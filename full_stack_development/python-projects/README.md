@@ -12,20 +12,20 @@
 ### General Info
 
 
-### [Command Line Development](command_line/README.md "My Command Line README.md file")
+### Command Line Development
    - Bulk File Rename Tool
    - Contact Book
    - Directory Tree Generator
    - Image Viewer
    - Site Connectivity Checker
 
-### [Desktop GUI Development](desktop_gui/README.md "My Desktop GUI README.md file")
+### Desktop GUI Development
    - Alarm Tool
    - Expense Tracker
    - File Manager
    - MP3 Player
 
-### [Web Development](web/README.md "My Web README.md file")
+### Web Development
 
    - Content Aggregator
    - Post-It Note
