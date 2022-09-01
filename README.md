@@ -25,4 +25,4 @@ My Projects is a culmination of schoolwork and personal projects that I have dev
 ### [Database Management](database_management/README.md "My Database Management README.md file")
 
    - [LIS 2780: Database Concepts](database_concepts/README.md " My Database Concepts README.md file")
-   - [LIS 4369: Extensible Enterprise Solutions](extensible_enterprise_solutions/README.md "My Extensible Enterprise Solutions README.md file")
+   - [LIS 4369: Extensible Enterprise Solutions](database_management/extensible_enterprise_solutions/README.md "My Extensible Enterprise Solutions README.md file")
