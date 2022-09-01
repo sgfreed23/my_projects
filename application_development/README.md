@@ -1,4 +1,4 @@
-# Full Stack Development
+# Application Development
 ## Developer: Samuel Grant Freed
 
 ### Table of contents
