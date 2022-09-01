@@ -4,6 +4,7 @@
 ### Table of contents
 * [General Info](#general-info)
 * [Database Concepts](#database-concepts)
+* [Intermediate Database Analysis](#intermediate_database_analysis)
 * [Extensible Enterprise Solutions](#extensible-enterprise-solutions)
 
 ### General Info
