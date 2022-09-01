@@ -4,8 +4,8 @@
 ### Table of contents
 * [General Info](#general-info)
 * [Python Projects](#python-projects)
-* [Python Projects](#python-projects)
-* [Python Projects](#python-projects)
+* [Advanced Web App Development](#advanced-web-app-development)
+* [Mobile Web App Development](#mobile-web-app-development)
 
 
 ### General Info
